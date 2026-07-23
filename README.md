@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -29,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
