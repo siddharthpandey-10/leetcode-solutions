@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0704-binary-search) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
