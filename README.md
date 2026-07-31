@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0704-binary-search) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
