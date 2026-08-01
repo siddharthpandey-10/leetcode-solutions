@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -197,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
