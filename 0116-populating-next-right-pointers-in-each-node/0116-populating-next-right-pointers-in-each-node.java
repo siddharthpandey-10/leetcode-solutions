@@ -20,7 +20,8 @@ class Node {
     }
 };
 */
-
+/*
+Approach 1 BFS
 class Solution {
     public Node connect(Node root) {
         
@@ -52,5 +53,32 @@ class Solution {
             }
         }
         return root;
+    }
+}
+*/
+
+//Approach 2 DFS
+class Solution {
+    public Node connect(Node root) {
+        if(root == null){
+            return null;
+        }
+
+        dfs(root);
+        return root;
+    }
+    private void dfs(Node node){
+        
+        if(node == null || node.left == null){
+            return;
+        }
+        
+        node.left.next = node.right;
+        
+        if(node.next != null){
+            node.right.next = node.next.left;
+        }
+        dfs(node.left);
+        dfs(node.right);
     }
 }
