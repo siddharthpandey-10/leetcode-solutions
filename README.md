@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Greedy
 |  |
