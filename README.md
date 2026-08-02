@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
