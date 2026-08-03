@@ -12,6 +12,7 @@ class Solution {
         
         if(node == graph.length-1){
             ans.add(new ArrayList<>(path));
+            
             return;
         }
 
@@ -20,5 +21,6 @@ class Solution {
             dfs(next, graph, path);
             path.remove(path.size() - 1);
         }
+        
     }
 }
