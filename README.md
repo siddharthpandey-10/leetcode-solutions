@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -272,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
