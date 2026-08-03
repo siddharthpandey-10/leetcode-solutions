@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0877-stone-game) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0542-01-matrix](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0542-01-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0877-stone-game) |
 ## Memoization
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
