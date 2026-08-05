@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [3310-remove-methods-from-project](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Greedy
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [3310-remove-methods-from-project](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
 | ------- |
