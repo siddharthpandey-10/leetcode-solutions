@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
