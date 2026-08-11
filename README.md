@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0621-task-scheduler](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -377,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
