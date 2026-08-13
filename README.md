@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0621-task-scheduler) |
