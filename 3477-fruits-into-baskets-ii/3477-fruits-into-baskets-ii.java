@@ -14,7 +14,7 @@ class Solution {
                 }
             }
         }
-        int unused = n-used;
-        return used == n ? 0 : unused;
+        
+        return n - used;
     }
 }
