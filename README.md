@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1406-stone-game-iii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2029-stone-game-ix](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1552-magnetic-force-between-two-balls](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3477-fruits-into-baskets-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
