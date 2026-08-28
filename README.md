@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/siddharthpandey-10/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
